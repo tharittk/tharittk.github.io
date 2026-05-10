@@ -3,29 +3,27 @@ layout: default
 ---
 
 <div class="home">
-  <p>Hi, I'm Tharit. 
+  <p>Hi, I'm Tharit.</p>
 
-  <h2>Technical</h2>
+  <h2>Technical Blog Posts</h2>
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains "technical" %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endif %}
+    {% assign tech_posts = site.posts | where_exp: "post", "post.categories contains 'technical'" %}
+    {% for post in tech_posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">({{ post.date | date: "%Y-%m-%d" }})</span>
+    </li>
     {% endfor %}
   </ul>
 
-  <h2>Personal</h2>
+  <h2>Personal Blog Posts</h2>
   <ul>
-    {% for post in site.posts %}
-      {% if post.categories contains "personal" %}
-        <li>
-          <span class="post-meta">{{ post.date | date: "%Y-%m-%d" }}</span>
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </li>
-      {% endif %}
+    {% assign personal_posts = site.posts | where_exp: "post", "post.categories contains 'personal'" %}
+    {% for post in personal_posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span class="post-meta">({{ post.date | date: "%Y-%m-%d" }})</span>
+    </li>
     {% endfor %}
   </ul>
 </div>
