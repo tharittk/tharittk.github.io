@@ -3,16 +3,22 @@
 
 @import "{{ site.theme }}";
 
-/* Reset to minimal */
 body {
   font-family: Georgia, "Times New Roman", serif;
   font-size: 16px;
   line-height: 1.6;
   color: #111;
+  background: #b0c4de;  /* the steel blue sides */
+  margin: 0;
+  padding: 0;
+}
+
+.wrapper {
   background: #fff;
   max-width: 700px;
-  margin: 40px auto;
-  padding: 0 20px;
+  margin: 0 auto;
+  padding: 40px 30px;
+  min-height: 100vh;
 }
 
 /* Header */
