@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  font-family: Georgia, serif;
+  font-size: 16px;
+  color: #111;
+  max-width: 750px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+a { color: #333; }
+h1, h2, h3 { font-family: sans-serif; }
+.post-list li { margin-bottom: 0.4em; }
