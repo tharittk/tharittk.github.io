@@ -3,20 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  <p>Hi, I'm Tharit.</p>
+  <p> A book guy who also studies computer science </p>
+  <h2>Observations</h2>
 
-  <h2>Technical Blog Posts</h2>
-  <ul>
-    {% assign tech_posts = site.posts | where_exp: "post", "post.categories contains 'technical'" %}
-    {% for post in tech_posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      <span class="post-meta">({{ post.date | date: "%Y-%m-%d" }})</span>
-    </li>
-    {% endfor %}
-  </ul>
-
-  <h2>Personal Blog Posts</h2>
   <ul>
     {% assign personal_posts = site.posts | where_exp: "post", "post.categories contains 'personal'" %}
     {% for post in personal_posts %}
@@ -26,4 +15,5 @@ layout: default
     </li>
     {% endfor %}
   </ul>
+
 </div>
