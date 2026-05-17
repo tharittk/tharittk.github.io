@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Learning CS Theory, Argument for Blackboard, and Why AI-codiing feels
+title: "Learning CS Theory, blackboard, and Why AI-coding feels
 frustating"
 date: 2026-05-17
 categories: [personal]
