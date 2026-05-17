@@ -17,13 +17,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-
+title: Tharit Tangkijwanichakul
 email: tharitt97 at gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-    <tbd>
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
 github_username:  tharittk
 
 # Build settings
