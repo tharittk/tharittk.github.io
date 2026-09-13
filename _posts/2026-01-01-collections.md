@@ -6,9 +6,11 @@ categories: [personal]
 pin: true
 ---
 <div style="text-align: center; font-size: 24px;">
+
+
   <em> "Knowing facts is different from having an understanding" </em>
+
+  
 </div>
-
-
 
 These are things I may have heard multiple times but they only "clicked" some time later.
