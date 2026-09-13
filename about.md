@@ -36,7 +36,7 @@ Somehow, that speaks to me. I flirted with computer science quite a bit in my un
 
 That was my second love.
 
-I guess it's not too bad to figure out two things I like - shortly before turning 30.
+I guess, shortly before turning 30, it's not too bad to figure out two things I really like in life :)
 
 
 

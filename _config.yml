@@ -18,8 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Tharit Tangkijwanichakul
+description: Fast is slow. Writing is one way to do it.
 email: tharitt97 at gmail.com
 github_username:  tharittk
+linkedin_username: ttharit
 
 # Build settings
 theme: minima
