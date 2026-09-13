@@ -1,5 +1,13 @@
 --- --- @import "{{ site.theme }}";
 
+html,
+body,
+.page-content,
+main,
+.site {
+  background-color: #fbedc7;
+}
+
 body {
   background-color: #fbedc7;
   font-family: Avenir, Arial, "Open Sans Light", sans-serif;
@@ -207,7 +215,7 @@ blockquote {
 
   .wrapper,
   .site {
-    background-color: #ffffff;
+    background-color: #fbedc7;
     width: 100%;
     max-width: 95%;
     margin: 8px auto;
