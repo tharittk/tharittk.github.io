@@ -1,0 +1,22 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Jekyll: Serve (Live Reload)",
+      "type": "shell",
+      "command": "eval \"$(rbenv init - bash)\" && bundle exec jekyll serve --livereload --future --drafts",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "isBackground": true,
+      "problemMatcher": []
+    },
+    {
+      "label": "Jekyll: Build",
+      "type": "shell",
+      "command": "eval \"$(rbenv init - bash)\" && bundle exec jekyll build",
+      "problemMatcher": []
+    }
+  ]
+}
