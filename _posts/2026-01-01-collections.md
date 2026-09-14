@@ -5,7 +5,7 @@ date: 1997-06-23
 categories: [personal]
 pin: true
 ---
-<div style="text-align: center; font-size: 24px;">
+<div style="text-align: center; font-size: 20px;">
   <em> "The teacher will show up once the student is ready" </em>
 </div>
 <br>
@@ -71,6 +71,8 @@ These are things I may have heard multiple times, but they only "clicked" some t
 20. It is not greed that drives the world. It's envy.
   <br>
     *Nothing can trouble the mind of a smart man more than seeing his idiot friend get rich. Warren Buffett jokingly said Adam Smith was wrong to say that greed is what drives the world.*
+21. The Golden Day never comes. It only exists in the past.
+    *You never know whether you're in one or not. You can only tell when you look back.*
 
 
 [more to come -- transferring from a notebook]
