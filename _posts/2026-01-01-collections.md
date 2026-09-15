@@ -72,7 +72,20 @@ These are things I may have heard multiple times, but they only "clicked" some t
   <br>
     *Nothing can trouble the mind of a smart man more than seeing his idiot friend get rich. Warren Buffett jokingly said Adam Smith was wrong to say that greed is what drives the world.*
 21. The Golden Day never comes. It only exists in the past.
+   <br>
     *You never know whether you're in one or not. You can only tell when you look back.*
-
+22. Love is something you give before you get it back.
+   <br>
+    *It is not guaranteed to get it back. Actually, you should not expect it. Giving love freely already already serves a 
+    joyful purpose.*
+23. It is harder to be kind than be clever.
+    <br>
+    *Bezos said it well enough*
+24. It's unfortunate that this happens to me. No, It is fortunate. It's the opportunity to excercise what you'd practice. It's an opportunity to learn something
+    <br>
+    *Taken from random places in Stoic readings*
+25. Friendship takes effort to maintain and does not happen automatically like when you were young.
+    <br>
+    *Hope I didn't recognize this too late*
 
 [more to come -- transferring from a notebook]
