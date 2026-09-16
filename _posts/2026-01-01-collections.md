@@ -87,5 +87,8 @@ These are things I may have heard multiple times, but they only "clicked" some t
 25. Friendship takes effort to maintain and does not happen automatically like when you were young.
     <br>
     *Hope I didn't recognize this too late*
+26. A well-groomed, smart person with good interpersonal skills is not interesting. If you have those traits, it's easy for you to attain the position of power. You should look at those who're no good. Those you can't believe to rise. That's real politics.
+    <br>
+    *It brought me a good laugh when I heard it first time. But it's very very true*
 
 [more to come -- transferring from a notebook]
