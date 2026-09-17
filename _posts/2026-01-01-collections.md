@@ -90,5 +90,8 @@ These are things I may have heard multiple times, but they only "clicked" some t
 26. A well-groomed, smart person with good interpersonal skills is not interesting. If you have those traits, it's easy for you to attain the position of power. You should look at those who're no good. Those you can't believe to rise. That's real politics.
     <br>
     *It brought me a good laugh when I heard it first time. But it's very very true*
+27. The future is going to come whether you like it or not. So you might as well be excited about it.
+    <br>
+    *Speaking of A.I. and interesting time when I nearly graduate the CS program*
 
 [more to come -- transferring from a notebook]
