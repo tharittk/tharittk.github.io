@@ -6,10 +6,9 @@ categories: [personal]
 pin: true
 ---
 <div style="text-align: center; font-size: 20px;">
-  <em> "The teacher will show up once the student is ready" </em>
+  <em> Zeno went to see the Oracle of Delphi and asked what's *the secret to life*. The cryptic answer was: "You will become wise onceyou start to have conversations with the dead." </em>
 </div>
 <br>
-These are things I may have heard multiple times, but they only "clicked" some time later.
 
 1. Take a simple idea and take it seriously
   <br>
