@@ -8,7 +8,7 @@ pin: true
 Zeno went to see the Oracle of Delphi and asked what's *the secret to life*. The cryptic answer was:
 <br>
 <div style="text-align: center; font-size: 18px;">
-  <em> "You will become wise onceyou start to have conversations with the dead." </em>
+  <em> "You will become wise once you start to have conversations with the dead." </em>
 </div>
 <br>
 
