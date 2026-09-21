@@ -94,5 +94,8 @@ Zeno went to see the Oracle of Delphi and asked what's *the secret to life*. The
 27. The future is going to come whether you like it or not. So you might as well be excited about it.
     <br>
     *Speaking of A.I. and interesting time when I nearly graduate the CS program*
+28. Still hurted but didn't bother that much (anymore)
+    <br>
+    Snap of the same little breaks
 
 [more to come -- transferring from a notebook]
