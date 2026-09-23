@@ -94,11 +94,15 @@ These are few things I've heard before but only "got it" once some time has pass
 28. Still hurted but didn't bother that much (anymore)
     <br>
     Munger once jokingly said one good thing of being is when you wake up *nothing new hurts*.
-29. We like to believe that world is a fair place. But it's not. The reality is probably too much to bear so we invent the Hell and Heaven, Karma, After Life, you name it. Don't get me wrong, there is a social good comes from this invention. But to the personal level, it's better to see the world as they are.
-    <br>
-
+29. We like to believe that world is a fair place. But it's not. The reality is probably too much to bear so we invent the Hell and Heaven, Karma, After Life, you name it. Don't get me wrong, there is a social good coming from this invention. But to the personal level, it's better to see the world as it is.
 30. Zeno went to see the Oracle of Delphi and asked what's *the secret to life*. The cryptic answer was:
     <br>
     "You will become wise once you start to have conversations with the dead."
+31. Happiness raidates from within. 
+    <br>
+    A broken soul will not be fixed by outside hands.
+32. Every good sorcerer knows: *if you know the name of the spirits, you have power over them
+    <br>
+    Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.
 
 [more to come -- transferring from a notebook]
