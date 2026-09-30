@@ -110,6 +110,9 @@ These are few things I've heard before but only "got it" once some time has pass
 34. Life is a state of mind.
     <br>
     Nobody is reponsible for your happiness. If you are not happy at work, it's not the company's reponsibility to make you otherwise. When you were young, you cry and make noises when you did not get what you want. The mature adult looks at the card he's dealth with and plays the hand without much complaint.
+35. People are interested in people. The story telling is to bring humans in.
+    <br>
+    I have heard so many times about the importance of story telling but cannot quite tell why one works better than the other. It becomes clear now: why do you like reading biography more than history book ? People identify the brand and the company with the persona behind it.
 
 
 [more to come -- transferring from a notebook]
