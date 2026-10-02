@@ -100,19 +100,22 @@ These are few things I've heard before but only "got it" once some time has pass
     "You will become wise once you start to have conversations with the dead."
 31. Happiness raidates from within. 
     <br>
-    A broken soul will not be fixed by outside hands.
-32. Every good sorcerer knows: *if you know the name of the spirits, you have power over them
+    *A broken soul will not be fixed by outside hands.*
+32. Every good sorcerer knows: if you know the name of the spirits, you have power over them
     <br>
-    Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.
+    *Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.*
 33. You can't save souls in an empty church.
     <br>
-    Attributed to David Ogilvy
+    *Attributed to David Ogilvy*
 34. Life is a state of mind.
     <br>
-    Nobody is reponsible for your happiness. If you are not happy at work, it's not the company's reponsibility to make you otherwise. When you were young, you cry and make noises when you did not get what you want. The mature adult looks at the card he's dealth with and plays the hand without much complaint.
+    *Nobody is reponsible for your happiness. If you are not happy at work, it's not the company's reponsibility to make you otherwise. When you were young, you cry and make noises when you did not get what you want. The mature adult looks at the card he's dealth with and plays the hand without much complaint.*
 35. People are interested in people. The story telling is to bring humans in.
     <br>
-    I have heard so many times about the importance of story telling but cannot quite tell why one works better than the other. It becomes clear now: why do you like reading biography more than history book ? People identify the brand and the company with the persona behind it.
-
+    *I have heard so many times about the importance of story telling but cannot quite tell why one works better than the other. It becomes clear now: why do you like reading biography more than history book ? People identify the brand and the company with the persona behind it.*
+36. You don't have power to possess everything. But you do have power to say to anything that you don't want it.
+    <br>
+37. We all love to talk about our own agenda. But the trick is you better talk about what's on their mind.
+    <br>
 
 [more to come -- transferring from a notebook]
