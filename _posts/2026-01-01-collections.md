@@ -88,7 +88,12 @@ These are few things I've heard before but only "got it" once some time has pass
 26. A well-groomed, smart person with good interpersonal skills is not interesting. If you have those traits, it's easy for you to attain the position of power. You should look at those who're no good. Those you can't believe to rise. That's real politics.
     <br>
     *It brought me a good laugh when I heard it first time. But it's very very true*
-27. The future is going to come whether you like it or not. So you might as well be excited about it.
+27. The future is going to hands.*
+32. Every good sorcerer knows: if you know the name of the spirits, you have power over them
+    <br>
+    *Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.*
+33. You can't save souls in an empty church.
+    <br> come whether you like it or not. So you might as well be excited about it.
     <br>
     *Speaking of A.I. and interesting time when I nearly graduate the CS program*
 28. Still hurted but didn't bother that much (anymore)
@@ -100,12 +105,7 @@ These are few things I've heard before but only "got it" once some time has pass
     "You will become wise once you start to have conversations with the dead."
 31. Happiness raidates from within. 
     <br>
-    *A broken soul will not be fixed by outside hands.*
-32. Every good sorcerer knows: if you know the name of the spirits, you have power over them
-    <br>
-    *Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.*
-33. You can't save souls in an empty church.
-    <br>
+    *A broken soul will not be fixed by outside
     *Attributed to David Ogilvy*
 34. Life is a state of mind.
     <br>
@@ -117,5 +117,8 @@ These are few things I've heard before but only "got it" once some time has pass
     <br>
 37. We all love to talk about our own agenda. But the trick is you better talk about what's on their mind.
     <br>
+38. Occam's Razor & Hanlon's Razor
+    <br>
+    I have heard the Occam's Razor before: when it comes to competing explanation to reality, the simple one with fewest assumption is usually the one that will do the job well. Its counterpart provides more socially positive attitude: behaviors do not usually stem from inherent malicious intents. Rather, it usually comes from following the path of least resistance.
 
 [more to come -- transferring from a notebook]
