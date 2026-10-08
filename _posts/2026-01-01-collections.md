@@ -120,5 +120,8 @@ These are few things I've heard before but only "got it" once some time has pass
 38. Occam's Razor & Hanlon's Razor
     <br>
     I have heard the Occam's Razor before: when it comes to competing explanation to reality, the simple one with fewest assumption is usually the one that will do the job well. Its counterpart provides more socially positive attitude: behaviors do not usually stem from inherent malicious intents. Rather, it usually comes from following the path of least resistance.
+39. When you see a coackroach in your house, sorry to say, but there're usually more than one.
+    <br>
+    I was reading The Power Broker last few chapters on the fall of power. I think I heard a version of this from Jamie Dimon somewhere. 
 
 [..always updating..]
