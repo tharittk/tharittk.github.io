@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A collection of something I figured out (so far)"
+title: "Something Figured Out"
 date: 1997-06-23
 categories: [personal]
 pin: true
