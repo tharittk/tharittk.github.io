@@ -74,8 +74,7 @@ These are few things I've heard before but only "got it" once some time has pass
     *You never know whether you're in one or not. You can only tell when you look back.*
 22. Love is something you give before you get it back.
    <br>
-    *It is not guaranteed to get it back. Actually, you should not expect it. Giving love freely already already serves a 
-    joyful purpose.*
+    *It is not guaranteed to get it back. Actually, you should not expect it. Giving love freely already already serves a joyful purpose.*
 23. It is harder to be kind than be clever.
     <br>
     *Bezos said it well enough*
@@ -93,14 +92,15 @@ These are few things I've heard before but only "got it" once some time has pass
     *Speaking of A.I. and interesting time when I nearly graduate the CS program*
 28. Still hurts but doesn't bother that much (anymore)
     <br>
-    Munger once jokingly said one good thing of being is when you wake up *nothing new hurts*.
+    *Munger once jokingly said one good thing of being old is when you wake up *nothing new hurts*.*
 29. We like to believe that world is a fair place. But it's not. The reality is probably too much to bear so we invent the Hell and Heaven, Karma, After Life, you name it. Don't get me wrong, there is a social good coming from this invention. But to the personal level, it's better to see the world as it is.
+    <br>
 30. Zeno went to see the Oracle of Delphi and asked what's *the secret to life*. The cryptic answer was:
     <br>
     "You will become wise once you start to have conversations with the dead."
 31. Happiness raidates from within. 
     <br>
-    *A broken soul will not be fixed by outside
+    *A broken soul will not be fixed by outside.*
 32. Every good sorcerer knows: if you know the name of the spirits, you have power over them
     <br>
     *Case in point: if you understand how LLM works algoritmically, you feel like you are the one wielding it - and not the other way around.*
@@ -119,9 +119,16 @@ These are few things I've heard before but only "got it" once some time has pass
     <br>
 38. Occam's Razor & Hanlon's Razor
     <br>
-    I have heard the Occam's Razor before: when it comes to competing explanation to reality, the simple one with fewest assumption is usually the one that will do the job well. Its counterpart provides more socially positive attitude: behaviors do not usually stem from inherent malicious intents. Rather, it usually comes from following the path of least resistance.
+    *I have heard the Occam's Razor before: when it comes to competing explanation to reality, the simple one with fewest assumption is usually the one that will do the job well. Its counterpart provides more socially positive attitude: behaviors do not usually stem from inherent malicious intents. Rather, it usually comes from following the path of least resistance.*
 39. When you see a coackroach in your house, sorry to say, but there're usually more than one.
     <br>
-    I was reading The Power Broker last few chapters on the fall of power. I think I heard a version of this from Jamie Dimon somewhere. 
+    *I was reading The Power Broker last few chapters on the fall of power. I think I heard a version of this from Jamie Dimon somewhere.*
+40. Life is not a success if you can live the way you want it.
+    <br>
+    *For some of us, we may not be able to choose what we do. But we all have the ability to choose how we do it.*
+41. The hatred poisons the mind of the hater - while the hated feels nothing.
+    <br>
+    *Same thing goes for envy. No fun doing it.*
+
 
 [..always updating..]
