@@ -129,6 +129,10 @@ These are few things I've heard before but only "got it" once some time has pass
 41. The hatred poisons the mind of the hater - while the hated feels nothing.
     <br>
     *Same thing goes for envy. No fun doing it.*
+42. People have a hard time articulating what's good. But when you show them something of quality, they can recognize it immediately.
+    <br>
+    *This was said in Zen and the Art of Motorcycle Maintenance. But I see people use it in softwares as well. I guess the same can be said to people of characters.*
+
 
 
 [..always updating..]
