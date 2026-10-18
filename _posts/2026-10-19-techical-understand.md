@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problem Solving is Solved. But There's Value in Understanding Things." 
-date: 2026-10-19
+date: 2026-10-18
 categories: [personal]
 ---
 
