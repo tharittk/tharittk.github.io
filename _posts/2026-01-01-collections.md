@@ -132,6 +132,16 @@ These are few things I've heard before but only "got it" once some time has pass
 42. People have a hard time articulating what's good. But when you show them something of quality, they can recognize it immediately.
     <br>
     *This was said in Zen and the Art of Motorcycle Maintenance. But I see people use it in softwares as well. I guess the same can be said to people of characters.*
+43. In the long run, each one of us gets what we deserve.
+    <br>
+    *The world is not that crazy yet to reward the underserving all the time. If you follow the natural drift, compound it over time, you will eventually get what you deserve.*
+44. It's practically impossible to predict what will happen and when it will simultaneously. You can only pick to do one.
+    <br>
+45. What is so great about compounding ? It is not about captital. Compounding is you don't lose what you already have. And that includes knowledge, trust, and relationships.
+    <br>
+46. There's a lot of human nature that goes into the tendency toward zero-sum games.
+    <br>
+    *If you choose to follow that then who are you at the end of the day? It's better way of living to lean toward positive societal good - big or small.If you are the zero-sum player, you will be replaced - that's almost by definition.*
 
 
 
