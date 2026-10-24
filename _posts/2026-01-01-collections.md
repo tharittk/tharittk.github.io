@@ -142,6 +142,8 @@ These are few things I've heard before but only "got it" once some time has pass
 46. There's a lot of human nature that goes into the tendency toward zero-sum games.
     <br>
     *If you choose to follow that then who are you at the end of the day? It's better way of living to lean toward positive societal good - big or small.If you are the zero-sum player, you will be replaced - that's almost by definition.*
+47. Because the feeling is so big, you think there must be a big reason behind it. No there is none. Many times simple explanation will do. The problem is that you won't accept it. You are looking for that grand closure.
+    <br>
 
 
 
